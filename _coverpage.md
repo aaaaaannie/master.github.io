@@ -10,4 +10,4 @@
 - docsify
 
 
-[开始食用 Let Go](/README.md)
+[Let's Go](/README.md)

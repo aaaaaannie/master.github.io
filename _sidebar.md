@@ -7,5 +7,7 @@
   * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
 * python
   * [spyder](/ProjectDocs/爬虫.md)
+  * [Random Forest](/ProjectDocs/RF.md)
 * R
   * [packages](/ProjectDocs/R包.md)
+

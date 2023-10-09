@@ -1,5 +1,5 @@
 * Random Forests
-    - Evaluate the Default Threshold
+    - [Evaluate the Default Threshold](https://saturncloud.io/blog/how-to-set-thresholds-for-scikitlearn-random-forest-models/)
     ```python
     from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
     y_pred = rf.predict(X_test)

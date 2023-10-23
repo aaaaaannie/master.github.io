@@ -8,6 +8,7 @@
 * python
   * [spyder](/ProjectDocs/爬虫.md)
   * [Random Forest](/ProjectDocs/RF.md)
+  * [MUST KNOW!!!](/ProjectDocs/Python learner.md)
 * R
   * [packages](/ProjectDocs/R包.md)
 

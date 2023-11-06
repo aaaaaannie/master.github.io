@@ -5,5 +5,5 @@
   - 一个包含ggplot2,dplyr,tidyr,readr,purrr,tibble,stringr,forcats等数据分析常用包的core
 * [qgraph](https://cran.r-project.org/web/packages/qgraph/index.html)
   -关联度分析
-* [forestploter](https://blog.csdn.net/qazplm12_3/article/details/125139420)
-* [datasummary] (https://modelsummary.com/articles/datasummary.html#datasummary_skim)
+* [forestploter](https://blog.csdn.net/qazplm12_3/article/details/125139420)绘制回归系数森林图
+* [datasummary](https://modelsummary.com/articles/datasummary.html#datasummary_skim)table1 helper

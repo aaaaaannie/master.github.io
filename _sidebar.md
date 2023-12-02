@@ -12,7 +12,10 @@
 * R
   * [packages](/ProjectDocs/R包.md)
 * Cloud Computing
-  * unzip:for file.zip larger than 4G using the command"7za x mypack.zip"
+  * unzip:for file.zip larger than 4G using the command:
+     ```
+     7za x mypack.zip
+     ```
   * check the version of cuda:
     ```
     nvidia-smi

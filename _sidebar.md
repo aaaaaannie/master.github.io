@@ -20,6 +20,9 @@
     ```
     nvidia-smi
     ```
+* Lunix
+  *[Docker](https://blog.csdn.net/xyl192960/article/details/120246820)
+   
 
  
 

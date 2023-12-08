@@ -22,7 +22,14 @@
     ```
 * Lunix
   * [Docker](https://blog.csdn.net/xyl192960/article/details/120246820)
-   
+     * 利用wget命令即可从网页下载，下面的例子是将网页上的该文件下载到当前路径下
+       ```
+       wget https://download.pytorch.org/models/resnet18-5c106cde.pth
+       ```
+     * 对下载的文件进行重命名，例如命名为resnet18.pth
+       ```
+       wget -O resnet18.pth https://download.pytorch.org/models/resnet18-5c106cde.pth
+       ```
 
  
 

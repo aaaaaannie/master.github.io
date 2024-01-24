@@ -8,11 +8,11 @@
 * python
   * [spyder](/ProjectDocs/爬虫.md)
   * [Random Forest](/ProjectDocs/RF.md)
-  * [MUST KNOW] (/ProjectDocs/Python learner.md)
+  * [mustknow](/ProjectDocs/Pythonlearner.md)
 * R
   * [packages](/ProjectDocs/R包.md)
 * Cloud Computing
- * [使用指南与问题](/ProjectDocs/cloudcomputing.md)
+   * [使用指南与问题](/ProjectDocs/cloudcomputing.md)
  
 
 * Linux

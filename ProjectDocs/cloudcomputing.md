@@ -6,10 +6,10 @@
     ```
     nvidia-smi
     ```
-  *[download]
-     *解压分为7z(7za x filename),unzip(unzip filename.zip)
-     *下载分为wget(for all file types: wget + download link)和gdown(专用Google drive)
-  *question: 因为import在上一级无法载入模块
+  * [download]
+     * 解压分为7z(7za x filename),unzip(unzip filename.zip)
+     * 下载分为wget(for all file types: wget + download link)和gdown(专用Google drive)
+  * question: 因为import在上一级无法载入模块
      ```
      import sys
      import os

@@ -20,7 +20,17 @@
     ```
     nvidia-smi
     ```
-* Lunix
+  *[download]
+     *解压分为7z(7za x filename),unzip(unzip filename.zip)
+     *下载分为wget(for all file types: wget + download link)和gdown(专用Google drive)
+  *question: 因为import在上一级无法载入模块
+     ```
+     import sys
+     import os
+     sys.path.append(os.path.abspath(os.path.join(__file__, "..", "..")))
+     ```
+
+* Linux
   * [Docker](https://blog.csdn.net/xyl192960/article/details/120246820)
      * 利用wget命令即可从网页下载，下面的例子是将网页上的该文件下载到当前路径下
        ```
@@ -30,6 +40,6 @@
        ```
        wget -O resnet18.pth https://download.pytorch.org/models/resnet18-5c106cde.pth
        ```
-
+ 
  
 

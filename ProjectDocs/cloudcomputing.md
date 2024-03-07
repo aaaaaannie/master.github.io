@@ -28,6 +28,6 @@
      gsutil -m cp -R  gs://ugc-dataset/original_videos_h264 ./
 
      ```
-
+*Linux执行sh文件提示Permission denied[https://zhuanlan.zhihu.com/p/481036985]
 
 

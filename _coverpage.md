@@ -2,11 +2,11 @@
 
 # ANNIE GUIDE 
 
-> 世界上不必每个人都到处游刃有余
+> You are still on the optimal guide
 
  **learn more...**
 - R
-- python
+- Python
 - docsify
 
 

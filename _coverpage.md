@@ -2,7 +2,7 @@
 
 # ANNIE GUIDE 
 
-> You are still on the optimal guide
+> You are still on the optimal route.
 
  **learn more...**
 - R

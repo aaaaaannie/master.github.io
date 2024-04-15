@@ -27,6 +27,6 @@
        ```
  * DeepLearning
   * Basic Network
-   * DenseNet(/ProjectDocs/DenseNet.md)
+   * [DenseNet](/ProjectDocs/DenseNet.md)
  
 

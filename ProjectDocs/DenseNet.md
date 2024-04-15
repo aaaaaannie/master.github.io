@@ -125,3 +125,27 @@ def densenet121(pretrained=False, **kwargs):
         model.load_state_dict(state_dict)
     return model
 ```
+## Make predictions:
+```
+densenet = densenet121(pretrained=True)
+densenet.eval()
+
+img = Image.open("./images/cat.jpg")
+
+trans_ops = transforms.Compose([
+    transforms.Resize(256),
+    transforms.CenterCrop(224),
+    transforms.ToTensor(),
+    transforms.Normalize(mean=[0.485, 0.456, 0.406],
+                         std=[0.229, 0.224, 0.225])
+])
+
+images = trans_ops(img).view(-1, 3, 224, 224)
+outputs = densenet(images)
+
+_, predictions = outputs.topk(5, dim=1)
+
+labels = list(map(lambda s: s.strip(), open("./data/imagenet/synset_words.txt").readlines()))
+for idx in predictions.numpy()[0]:
+    print("Predicted labels:", labels[idx])
+```

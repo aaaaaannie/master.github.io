@@ -26,7 +26,9 @@
        wget -O resnet18.pth https://download.pytorch.org/models/resnet18-5c106cde.pth
        ```
  * DeepLearning
-  * Basic Network
-   * [DenseNet](/ProjectDocs/DenseNet.md)
+  ** Basic Network
+   *** [DenseNet](/ProjectDocs/DenseNet.md)
+  ** [Error Record](/ProjectDocs/ERROR_Record.md)
+   
  
 

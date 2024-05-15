@@ -1,3 +1,4 @@
+# Download MIMIC
 ```
-CommandException: 1 file/object could not be transferred Error
+CommandException: 30000 file/object could not be transferred Error
 ```

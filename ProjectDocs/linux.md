@@ -15,7 +15,7 @@
      import os
      sys.path.append(os.path.abspath(os.path.join(__file__, "..", "..")))
      ```
-  *download from google cloud
+  * download from google cloud
   首先保证电脑中的python可用，激活conda 环境
   1.下载gsutil
      
@@ -28,11 +28,11 @@
      gsutil -m cp -R  gs://ugc-dataset/original_videos_h264 ./
 
      ```
-*Linux执行sh文件提示Permission denied[https://zhuanlan.zhihu.com/p/481036985]
+* Linux执行sh文件提示Permission denied[https://zhuanlan.zhihu.com/p/481036985]
 
-*jupyter lab 下激活jupyter notebook 中的虚拟环境
-     *先在终端conda激活环境
-     *输入python -m ipykernel install --user --name=myenv指令
-     *在notebook中使用相应的核
+* jupyter lab 下激活jupyter notebook 中的虚拟环境
+     * 先在终端conda激活环境
+     * 输入python -m ipykernel install --user --name=myenv指令
+     * 在notebook中使用相应的核
 
 

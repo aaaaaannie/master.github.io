@@ -30,4 +30,9 @@
      ```
 *Linux执行sh文件提示Permission denied[https://zhuanlan.zhihu.com/p/481036985]
 
+*jupyter lab 下激活jupyter notebook 中的虚拟环境
+     *先在终端conda激活环境
+     *输入python -m ipykernel install --user --name=myenv指令
+     *在notebook中使用相应的核
+
 

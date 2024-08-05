@@ -34,5 +34,7 @@
      * 先在终端conda激活环境
      * 输入python -m ipykernel install --user --name=myenv指令
      * 在notebook中使用相应的核
+* 提取三层文件夹下的子文件
+     * for var in /home/sunrui/medfair/data/ADNI_3T/*/*/*/*;do cp "$var"/*.nii /home/sunrui/medfair/data/images-all; done
 
 

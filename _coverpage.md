@@ -7,7 +7,7 @@
  **learn more...**
 - R
 - Python
-- docsify
+- Linux
 
 
 [Let's Go](/README.md)
